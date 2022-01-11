@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-target-blank */
 import { ReactComponent as GithubIcon } from "assets/img/github.svg";
 import "./styles.css";
 
