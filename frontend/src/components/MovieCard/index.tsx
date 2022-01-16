@@ -1,4 +1,3 @@
-import { type } from "os";
 import { Link } from "react-router-dom";
 import { Movie } from "types/movie";
 import MovieScore from "../MovieScore";
